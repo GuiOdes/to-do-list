@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@200&display=swap');
+
+body {
+    background-color: #121212;
+}
+
+#titulo {
+    font-family: 'Patrick Hand', cursive;
+    font-size: 5em;
+}
+
+#to-do-list {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2em;
+}
+
+th {
+    border-right: solid 2px #fff;
+}
